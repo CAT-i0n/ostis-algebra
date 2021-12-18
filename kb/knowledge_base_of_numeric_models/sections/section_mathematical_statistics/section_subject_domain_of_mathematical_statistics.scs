@@ -17,6 +17,7 @@ section_subject_domain_of_mathematical_statistics -> rrel_key_sc_element:
     nrel_covariance;
     nrel_sample_range;
     nrel_mode;
+    nrel_median;
     nrel_sample_expected_value;
     nrel_sample_variance;
     nrel_sample_standart_deviation;
@@ -44,6 +45,7 @@ section_subject_domain_of_mathematical_statistics = [*
         nrel_covariance;
         nrel_sample_range;
         nrel_mode;
+        nrel_median;
         nrel_sample_expected_value;
         nrel_sample_variance;
         nrel_sample_standart_deviation;
