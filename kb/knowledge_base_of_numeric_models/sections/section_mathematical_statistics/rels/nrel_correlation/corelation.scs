@@ -1,8 +1,8 @@
 sc_node_norole_relation ->  nrel_correlation;;
 
 nrel_correlation => nrel_main_idtf:
-[корреляция* ](*<-lang_ru;;*);
-[correlation* ](*<-lang_en;;*);;
+[корреляция*](*<-lang_ru;;*);
+[correlation*](*<-lang_en;;*);;
 
 
 nrel_correlation <- rrel_key_sc_element:

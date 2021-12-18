@@ -1,8 +1,8 @@
 sc_node_norole_relation ->  nrel_mode;;
 
 nrel_mode => nrel_main_idtf:
-[мода* ](*<-lang_ru;;*);
-[mode* ](*<-lang_en;;*);;
+[мода*](*<-lang_ru;;*);
+[mode*](*<-lang_en;;*);;
 
 nrel_mode <- rrel_key_sc_element:
 	... 

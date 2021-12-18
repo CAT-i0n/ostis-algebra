@@ -1,8 +1,8 @@
 sc_node_norole_relation ->  nrel_sample_expected_value;;
 
 nrel_sample_expected_value => nrel_main_idtf:
-[выборочное среднее значение* ](*<-lang_ru;;*);
-[sample expected value* ](*<-lang_en;;*);;
+[выборочное среднее значение*](*<-lang_ru;;*);
+[sample expected value*](*<-lang_en;;*);;
 
 //определение
 nrel_sample_expected_value <- rrel_key_sc_element:

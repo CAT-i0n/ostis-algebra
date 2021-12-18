@@ -1,8 +1,8 @@
 sc_node_norole_relation ->  nrel_sample_variance;;
 
 nrel_sample_variance => nrel_main_idtf:
-[выборочная дисперсия* ](*<-lang_ru;;*);
-[sample variance* ](*<-lang_en;;*);;
+[выборочная дисперсия*](*<-lang_ru;;*);
+[sample variance*](*<-lang_en;;*);;
 
 //определение
 nrel_sample_variance <- rrel_key_sc_element:

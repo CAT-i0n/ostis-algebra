@@ -1,8 +1,8 @@
 sc_node_norole_relation -> nrel_sample_standart_deviation;;
 
 nrel_sample_standart_deviation => nrel_main_idtf:
-[выборочное стандартное отклонение* ](*<-lang_ru;;*);
-[sample standart deviation* ](*<-lang_en;;*);;
+[выборочное стандартное отклонение*](*<-lang_ru;;*);
+[sample standart deviation*](*<-lang_en;;*);;
 
 
 nrel_sample_standart_deviation <- rrel_key_sc_element:

@@ -1,8 +1,8 @@
 sc_node_norole_relation ->  nrel_covariance;;
 
 nrel_covariance => nrel_main_idtf:
-[ковариация* ](*<-lang_ru;;*);
-[covariance* ](*<-lang_en;;*);;
+[ковариация*](*<-lang_ru;;*);
+[covariance*](*<-lang_en;;*);;
 
 
 nrel_covariance <- rrel_key_sc_element:
